@@ -1,5 +1,7 @@
 # shell-otp
 
+[![GuardRails badge](https://badges.production.guardrails.io/daveio/shell-otp.svg)](https://www.guardrails.io)
+
 Generate six-digit two-factor auth keys from your shell, compatible with Google Authenticator and similar.
 
 ## Are you damaged or something?
